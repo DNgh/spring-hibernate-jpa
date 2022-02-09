@@ -15,7 +15,7 @@
 		<spring.version>4.2.5.RELEASE</spring.version>
 		<spring-jpa.version>1.8.2.RELEASE</spring-jpa.version>
 		<!-- hibernate版本号 -->
-		<hibernate.version>4.3.8.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<hibernate-validator.version>5.2.4.Final</hibernate-validator.version>
 		<hibernate-jpa.version>1.0.0.Final</hibernate-jpa.version>
 		<!-- aspectj版本号 -->
